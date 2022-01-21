@@ -1,0 +1,27 @@
+[
+      {
+        "cb_id": "CB1", 
+        "cb_loc": "ORCA", 
+        "cb_status": "0"
+      }, 
+      {
+        "cb_id": "CB2", 
+        "cb_loc": "EYAK", 
+        "cb_status": "1"
+      }, 
+      {
+        "cb_id": "CB3", 
+        "cb_loc": "ORCA", 
+        "cb_status": "1"
+      }, 
+      {
+        "cb_id": "CB4", 
+        "cb_loc": "EYAK", 
+        "cb_status": "0"
+      }, 
+      {
+        "cb_id": "CB5", 
+        "cb_loc": "HBC", 
+        "cb_status": "1"
+      }
+]
